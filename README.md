@@ -1,4 +1,4 @@
-# Decision Tree Penguin 
+# Decision Tree Penguin (Made in 28 min with 0.94 accuracy)
 Project Workflow
 1. Data Preprocessing
 Handling Missing Values: Filled missing values using the mean for numerical columns.
